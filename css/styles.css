@@ -1,0 +1,30 @@
+body {
+  background-color: #D9D9D9;
+  color: #353535;
+  font-family: Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #284B63;
+}
+
+a:visited {
+  color: #3C6E71;
+}
+
+.header {
+  font-family: 'Courier New', monospace;
+  font-weight: 400;
+}
+
+.small {
+  font-size: 24px
+}
+
+.big {
+  font-size: 36px
+}
